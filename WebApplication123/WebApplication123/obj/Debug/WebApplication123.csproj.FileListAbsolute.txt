@@ -1,0 +1,164 @@
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\ApplicationInsights.config
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\roslyn\csc.exe
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\roslyn\System.Collections.Immutable.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\roslyn\System.Reflection.Metadata.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\roslyn\vbc.exe
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\roslyn\VBCSCompiler.exe
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\roslyn\VBCSCompiler.exe.config
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\WebApplication123.dll.config
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\WebApplication123.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\WebApplication123.pdb
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Antlr3.Runtime.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\EntityFramework.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\EntityFramework.SqlServer.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.AI.Agent.Intercept.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.AI.DependencyCollector.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.AI.Web.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.AI.WindowsServer.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.ApplicationInsights.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.AspNet.Identity.Core.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.Owin.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.Cookies.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.Facebook.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.Google.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.OAuth.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.Twitter.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.Web.Infrastructure.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Newtonsoft.Json.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Owin.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\System.Web.Helpers.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\System.Web.Mvc.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\System.Web.Optimization.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\System.Web.Razor.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\System.Web.WebPages.Deployment.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\System.Web.WebPages.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\System.Web.WebPages.Razor.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\WebGrease.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.AI.DependencyCollector.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.AI.Web.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.AI.WindowsServer.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.ApplicationInsights.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\System.Web.Helpers.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\System.Web.Mvc.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\System.Web.Optimization.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\System.Web.Razor.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\System.Web.WebPages.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\System.Web.WebPages.Deployment.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\System.Web.WebPages.Razor.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Antlr3.Runtime.pdb
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Newtonsoft.Json.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\EntityFramework.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\EntityFramework.SqlServer.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.AspNet.Identity.Core.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.Owin.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.Facebook.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.Cookies.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.OAuth.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.Google.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.Twitter.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\sakthi\File1\WebApplication123\WebApplication123\obj\Debug\WebApplication123.dll
+D:\sakthi\File1\WebApplication123\WebApplication123\obj\Debug\WebApplication123.pdb
+D:\sakthi\File1\WebApplication123\WebApplication123\obj\Debug\WebApplication123.csprojResolveAssemblyReference.cache
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\ApplicationInsights.config
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\roslyn\csc.exe
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\roslyn\System.Collections.Immutable.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\roslyn\System.Reflection.Metadata.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\roslyn\vbc.exe
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\roslyn\VBCSCompiler.exe
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\roslyn\VBCSCompiler.exe.config
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\WebApplication123.dll.config
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\WebApplication123.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\WebApplication123.pdb
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Antlr3.Runtime.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\EntityFramework.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\EntityFramework.SqlServer.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.AI.Agent.Intercept.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.AI.DependencyCollector.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.AI.Web.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.AI.WindowsServer.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.ApplicationInsights.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.AspNet.Identity.Core.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.Owin.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.Cookies.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.Facebook.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.Google.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.OAuth.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.Twitter.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.Web.Infrastructure.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Newtonsoft.Json.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Owin.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\System.Web.Helpers.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\System.Web.Mvc.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\System.Web.Optimization.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\System.Web.Razor.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\System.Web.WebPages.Deployment.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\System.Web.WebPages.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\System.Web.WebPages.Razor.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\WebGrease.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.AI.DependencyCollector.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.AI.Web.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.AI.WindowsServer.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.ApplicationInsights.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\System.Web.Helpers.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\System.Web.Mvc.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\System.Web.Optimization.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\System.Web.Razor.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\System.Web.WebPages.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\System.Web.WebPages.Deployment.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\System.Web.WebPages.Razor.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Antlr3.Runtime.pdb
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Newtonsoft.Json.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\EntityFramework.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\EntityFramework.SqlServer.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.AspNet.Identity.Core.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.Owin.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.Facebook.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.Cookies.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.OAuth.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.Google.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.Twitter.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\github folder\qwerty\WebApplication123\WebApplication123\obj\Debug\WebApplication123.csprojResolveAssemblyReference.cache
+D:\github folder\qwerty\WebApplication123\WebApplication123\obj\Debug\WebApplication123.dll
+D:\github folder\qwerty\WebApplication123\WebApplication123\obj\Debug\WebApplication123.pdb
