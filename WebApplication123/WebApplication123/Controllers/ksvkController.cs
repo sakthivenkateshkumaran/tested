@@ -42,6 +42,14 @@ namespace WebApplication123.Controllers
             Database1Entities db = new Database1Entities();
             return View(db.files.ToList());
         }
+
+
+
+        public ActionResult homecome()
+        {
+            Database1Entities db = new Database1Entities();
+            return View(db.files.ToList());
+        }
     }
 }
  
